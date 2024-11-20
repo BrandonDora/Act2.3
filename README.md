@@ -1,6 +1,8 @@
 # Act2.3
 
 
-# Hola
-## Hoolaaaaa
-### kkkk
+# Título 1
+## Título 2
+### Título 3
+**Negrita**
+_Cursiva_
